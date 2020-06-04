@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="tab_with_icons_and_text/app" />
+      <module fileurl="file://$PROJECT_DIR$/tab_with_icons_and_text.iml" filepath="$PROJECT_DIR$/tab_with_icons_and_text.iml" group="tab_with_icons_and_text" />
+    </modules>
+  </component>
+</project>
